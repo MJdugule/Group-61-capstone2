@@ -117,7 +117,7 @@ class _SignInState extends State<SignIn> {
                             Navigator.of(context).push(
                                             CupertinoPageRoute(
                                                 builder: (context) =>
-                                                    SignUp()));
+                                                    const SignUp()));
                           },
                           child: const Center(
                               child: Text(
