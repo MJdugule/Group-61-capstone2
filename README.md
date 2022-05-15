@@ -5,9 +5,13 @@ S.H 5.0 Mobile App Dev, Capstone 2, Group 61
 ## Getting Started
 
 S.H Contributors ID
+
 SH-IT-0125318
+
 SH-IT-0072311
+
 SH-IT-0141678
+
 
 
 ![Screenshot_1652467561](https://user-images.githubusercontent.com/104461643/168355045-f94f8666-b172-44ea-aa78-50dd4fb7c2de.png)
